@@ -1,0 +1,23 @@
+{
+  "id": "1824003",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "14538321",
+      "name": "account_filled",
+      "font_class": "account_filled",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "14538350",
+      "name": "lock_filled",
+      "font_class": "lock_filled",
+      "unicode": "e699",
+      "unicode_decimal": 59033
+    }
+  ]
+}
