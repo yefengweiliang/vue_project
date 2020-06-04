@@ -72,8 +72,8 @@ export default {
         var params = new URLSearchParams()
         params.append('userName', this.loginForm.userName)
         params.append('password', this.loginForm.password)
-        const { data: res } = await this.$http.post('userAuth/login', params)
-        if (res.respCode != 100) {
+        const { data: res } = await this.$http.post('login', params)
+        if (res.respCode !== 100) {
           this.$message.error('登陆失败')
         } else {
           this.$message.success('登陆成功')

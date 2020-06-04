@@ -1,0 +1,44 @@
+{
+  "id": "1841103",
+  "name": "菜单",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "356464",
+      "name": "商品",
+      "font_class": "shangpin",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "507674",
+      "name": "权限分级",
+      "font_class": "quanxianfenji",
+      "unicode": "e758",
+      "unicode_decimal": 59224
+    },
+    {
+      "icon_id": "1115031",
+      "name": "订单",
+      "font_class": "dingdan",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "3283550",
+      "name": "用户组",
+      "font_class": "user-group",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "6568050",
+      "name": "写博客",
+      "font_class": "xieboke",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    }
+  ]
+}
